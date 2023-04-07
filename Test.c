@@ -17,6 +17,7 @@ scanf("%s",&Name[i]);
 printf("입력을 완료하셨다면 시작합니다.(ENTER)");
 
 sleep(500)
+system("cls")
 for(Name[i]!=Name[i+1])
 
 
